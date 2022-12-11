@@ -2,11 +2,35 @@
 
 <h3 align="center">Обязательные пасхалки в адрес Мазекина(пы)</h3>
 
-- 🔭 I’m currently working on **MeteorRP Launcher**
+- 🔭 I’m currently working on **MeteorRP Launcher** для SAMP-проекта (https://meteor-rp.ru/)
 
 - 🌱 I’m currently learning **jPHP, DevelNext IDE, Pawn**
 
-- ⚡ Fun fact **Mazepa is Impostor**
+- ⚡ Fun fact **Mazepa is impostor**
+
+> **Recent**
+> projects
+<table>
+<thead>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Repository link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>RKKPlanner</td>
+    <td>Планировщик распорядка дня, написанный на DevelNext</td>
+    <td>Private for now</td>
+  </tr>
+  <tr>
+    <td>Meteor RP Launcher</td>
+    <td>Лаунчер для SAMP-проекта</td>
+    <td>Private for now</td>
+  </tr>
+</tbody>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
